@@ -1,5 +1,5 @@
 # Archive
-This repository stores historical records for FinancialFreedomDAO, ensuring auditability.
+This repository stores historical records for Retail DAO, ensuring auditability.
 
 ## Structure
 - **old-governance**: Deprecated governance documents.
