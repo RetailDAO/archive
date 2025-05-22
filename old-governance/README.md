@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/RetailDAO/Docs/refs/heads/main/branding/logos/RD_logo_Ex_ver_Color_chipotle_variant.png" alt="Retail_DAO_logo" width="300">
+
 # Old Governance Documents
 
 This subfolder in the [archive](https://github.com/RetailDAO/archive) repository stores deprecated governance documents from RetailDAO’s early days. 

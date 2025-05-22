@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/RetailDAO/Docs/refs/heads/main/branding/logos/RD_logo_Ex_ver_Color_chipotle_variant.png" alt="Retail_DAO_logo" width="300">
+
 # Old Code
 
 This subfolder in the [archive](https://github.com/RetailDAO/archive) repository stores deprecated code from RetailDAO’s early development, ensuring transparency and auditability. RetailDAO is a decentralized autonomous organization (DAO) on the Base Network, empowering retail investors through community governance and collective wisdom using the $RETAIL token for governance and incentives.
